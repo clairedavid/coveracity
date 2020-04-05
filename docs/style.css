@@ -1,0 +1,80 @@
+html, body {
+    color: #595959;
+}
+
+.navbar a {
+    color: #595959;
+}
+
+li {
+   margin-right: 20px;
+   }
+
+#logo {
+    margin: 15px 0 20px 0;
+    width: 50px;
+}
+
+.text-muted {
+    margin-top: 25px;
+    margin-bottom: 45px;
+}
+
+#checkBtn {
+    
+
+}
+
+#checkBtn:hover {
+    background: #90EE90;
+    color: #595959;
+    
+}
+
+.textCard {
+    
+    border-bottom: solid 1px #D3D3D3;
+}
+
+.fa-times {
+    color: red;
+}
+
+.textCard {
+    margin: 20px 0 20px 0;
+}
+
+.textCard a {
+    color: #0066ff;
+}
+
+.claim {
+    text-align: center;
+    padding: 20px 0 20px 0;
+
+}
+.claimSource {
+    top-margin: 5px;
+}
+.claimSource: a {
+    text-decoration: underline;
+    color: #595959;
+}
+.claim-False {
+    background: #ffb3b3;
+}
+
+.answer {
+    margin: 20px 0 20px 0;
+    text-decoration: bold;
+}
+.answer-False {
+    color: #e30000;
+}
+.answerIcon {
+    margin-top: 10px;
+}
+.reviewLinks {
+    margin: 10px;
+    }
+
